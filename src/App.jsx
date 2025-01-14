@@ -46,7 +46,7 @@ function App() {
             </div>
           </div>
         </div>
-        <div className="w-[130px] h-[130px] absolute rounded-full bg-indigo-500 top-[900px] right-[33 0px] mix-blend-lighten"></div>
+        <div className="w-[130px] h-[130px] absolute rounded-full bg-indigo-500 top-[900px] right-[330px] mix-blend-lighten"></div>
         <div className="w-1/2 h-screen bg-gray-900 flex justify-center items-center">
           <div className="w-[330px] h-[800px] bg-gray-700/50z-10 flex justify-center rounded-[50px] backdrop-blur-md z-10 px-[40px] py-[60px]">
             <div className="flex">
